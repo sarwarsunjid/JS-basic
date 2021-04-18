@@ -176,7 +176,6 @@ console.log(secondToLastLetterOfLastName);
 
 
 
-
 //Check String Immutability
 var myStr = "Jello World";
 
