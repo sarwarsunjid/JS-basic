@@ -139,7 +139,7 @@ console.log(myArr);
     ['3','bike']
 ]
 
-var popFromArr = myArr.shift();
+myArr.shift();
 
 console.log(myArr);
 
